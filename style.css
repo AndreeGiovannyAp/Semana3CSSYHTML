@@ -1,3 +1,40 @@
-*{
-    background-color: aquamarine;
-} 
+#titulo{
+    font-size: 55px;
+    font-family: sans-serif;
+    margin-top: 15%;
+    color: rgb(1, 17, 104)
+}
+#subtitulo{ 
+    font-size: 20px;
+    font-family: sans-serif;
+
+    color: rgba(3, 25, 148, 0.459);
+
+    }
+
+    .beneficios{
+        color: rgba(3, 25, 148, 0.459);
+    }
+    .img1{
+        width: 5px;
+    }
+
+    #enfermera{
+        background: url(imagenes/enfermera.jpg);
+        width:100%;
+
+    }
+    .espacio{
+        font-family: sans-serif;
+        color: rgba(3, 25, 148, 0.459);
+        margin-top: 15%;
+    }
+
+    .bloque{
+        position: absolute;
+        background-color: aqua;
+        width:85%;
+        height: 35%;
+        top: 50%;
+        
+    }
